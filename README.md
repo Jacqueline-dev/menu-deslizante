@@ -1,7 +1,3 @@
-## Descrição do Desafio 
-
-
-
 
 ## Menu deslizante
 
@@ -11,8 +7,6 @@ Menu para praticar minhas habilidades em HTML e CSS.
  * HTML
  * CSS
  
-
-
 ## Conheça o projeto: 
 ![CPT2302281936-674x361](https://user-images.githubusercontent.com/64090350/221997142-e4f1ade0-09ac-460c-b8e1-931e8a95fc60.gif)
 
